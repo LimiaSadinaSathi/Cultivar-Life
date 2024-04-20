@@ -1,2 +1,2 @@
-# Cultivar-Life
-Cultivar Life unites investors, landowners, and farmers in Bangladesh, facilitating informed decisions with land insights, climate data, and fair compensation. Boosting agriculture for economic stability and food security.
+
+Cultivar Life has three main goals for improving farming in Bangladesh. First, it wants to help investors feel confident about putting money into agriculture by giving them easy-to-understand info about land, weather, crops, and profits. Second, it aims to get landowners excited about letting farmers use their land by making it simple and rewarding. Lastly, it's all about making sure farmers get paid fairly for their hard work. By connecting them with investors, offering financial help, and setting aside land for crops, everyone wins. In short, Cultivar Life is all about making farming in Bangladesh better by boosting investor trust, getting more land for farming, and ensuring fair pay for farmers.
